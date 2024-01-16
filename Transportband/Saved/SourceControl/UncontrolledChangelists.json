@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/NewMap.umap",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/01_-_Default_Slot__1.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/02_-_Default.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/Conveyer_SM_1_.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/NewBlueprint.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/Rmk3.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/TEX_wood_lathe_button.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/TEX_wood_lathe_green_metal.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/TEX_wood_lathe_motor_sticker.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_black_plastic.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_black_plastic1.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_button.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_button1.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_cast_iron.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_cast_iron1.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_chrome_metal.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_chrome_metal1.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_green_base.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_green_base1.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_metal.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_metal1.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_motor_logo.uasset",
+				"C:/Users/boghe/3eai/Prof_inno/unreal/IA_transportband/Content/wood_lathe_motor_logo1.uasset",
+				"C:/Users/boghe/3eai-IA-2324-CNCpark/IA_transportband/Content/NewBlueprint.uasset",
+				"C:/Users/boghe/3eai-IA-2324-CNCpark/IA_transportband/Content/NewMap.umap"
+			]
+		}
+	]
+}
